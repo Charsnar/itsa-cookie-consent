@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name: ITSA Cookie Consent
- * Plugin URI:  https://example.com
+ * Plugin URI:  https://itsaustralia.com.au
  * Description: Granular cookie consent, script blocking (GA4/GTM), and admin controls branded for ITSA - I Technical Services Australia.
  * Version:     2.0.0
  * Author:      ITSA - I Technical Services Australia
+ * Author URI:  https://itsaustralia.com.au
  * License:     GPL-2.0-or-later
  * Text Domain: itsa-cookie-consent
  */
