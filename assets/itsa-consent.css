@@ -1,0 +1,67 @@
+.itsa-cc-banner {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    z-index: 99999;
+    background: #0f172a;
+    color: #f8fafc;
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.itsa-cc-inner {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 16px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.itsa-cc-title {
+    margin: 0 0 4px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #38bdf8;
+}
+
+.itsa-cc-message {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.45;
+}
+
+.itsa-cc-message a {
+    color: #7dd3fc;
+    text-decoration: underline;
+}
+
+.itsa-cc-actions {
+    display: flex;
+    gap: 10px;
+    flex-shrink: 0;
+}
+
+.itsa-cc-btn {
+    padding: 9px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+
+.itsa-cc-btn-secondary {
+    background: #334155;
+    color: #f8fafc;
+}
+
+.itsa-cc-btn-primary {
+    background: #0284c7;
+    color: #ffffff;
+}
